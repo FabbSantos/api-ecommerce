@@ -34,8 +34,3 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-
-# database
-data.db
-logs.db
-pocketbase.exe
